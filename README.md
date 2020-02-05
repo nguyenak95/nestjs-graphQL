@@ -1,5 +1,6 @@
 My GraphQL Schema:
-```type Post {
+```
+type Post {
   id: ID
   title: String
   content: String
